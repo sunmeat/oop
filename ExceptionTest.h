@@ -923,6 +923,6 @@ std::vector v;
 	}
 };
 
-unsigned long long ExceptionExamples::counter = 0;
+unsigned long long ExceptionExamples::counter;
 
 // ExceptionExamples::Test();
